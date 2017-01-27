@@ -15,25 +15,25 @@ body {
 }
 
 
-/*.jumbotron h1{*/
-    /*font-size:40px;*/
-    /*padding-right: 100px;*/
-    /*padding-left: 100px;*/
-    /*color:#47525d!important;*/
-    /*font-family: 'Raleway', sans-serif !important;*/
-    /*font-weight: 300;*/
-    /*text-transform: capitalize;*/
-/*}*/
-
-h1{
-    font-size: 40 px !important;
+.jumbotron h1{
+    font-size:40px;
+    padding-right: 100px;
+    padding-left: 100px;
     color:#47525d!important;
     font-family: 'Raleway', sans-serif !important;
     font-weight: 300;
     text-transform: capitalize;
-
-
 }
+
+/*h1{*/
+    /*font-size: 40 px !important;*/
+    /*color:#47525d!important;*/
+    /*font-family: 'Raleway', sans-serif !important;*/
+    /*font-weight: 300;*/
+    /*text-transform: capitalize;*/
+
+
+/*}*/
 
 
 .navbar {
