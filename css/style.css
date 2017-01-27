@@ -3,12 +3,9 @@ body {
     font-family: 'Raleway', sans-serif !important;
 }
 
-.em-text{
-    color:#1caa98 !important;
-    font-weight: bold !important;
-
+::selection {
+    background: #5097bc; /* WebKit/Blink Browsers */
 }
-
 .jumbotron{
     min-height:500px;
     background-color: #ffffff;
