@@ -5,7 +5,7 @@ body {
 
 ::selection {
     background: #5097bc; /* WebKit/Blink Browsers */
-    color: #ffe132;
+    color: #ffffff;
 }
 .jumbotron{
     min-height:500px;
