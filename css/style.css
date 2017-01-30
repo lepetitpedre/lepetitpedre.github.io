@@ -80,3 +80,38 @@ body {
     padding-bottom: 5px !important;
     text-transform: none!important;
 }
+
+.footer_top {
+    background: #edeff1 url(Footertopbg.png) repeat-x scroll center top;
+    padding-top: 140px;
+    padding-bottom: 33px;
+}
+
+
+.a.qbutton.small {
+    background: transparent url(read-more.png) no-repeat scroll 0 0 !important;
+    border: medium none !important;
+    font-size: 0;
+    height: 27px;
+    padding: 0;
+    width: 108px;
+}
+
+.footer_bottom_holder{
+    background:#88959F;
+    color:#B6C9D4;
+}
+
+.footer_bottom {
+    color: #bac9d3 !important;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: center;
+    padding: 20 20 20 20px;
+    height: 46px;
+}
+
+.container-outer{
+    color: #818181 !important;
+}
