@@ -115,3 +115,10 @@ body {
 .container-outer{
     color: #818181 !important;
 }
+
+.footer_holder{
+    width:100%;
+    margin: 0;
+    padding: 20px;
+    background-color: #edeff1;
+}
